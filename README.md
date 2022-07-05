@@ -1,5 +1,5 @@
 # Angular Crypto Currency Tracker
-In this project I used Angular13 to build an crypto tracker where the user can view, filter, and change curriences to for the crypto currency list. 
+In this project I used Angular13 to build an crypto tracker where the user can view, filter, and change national curriences of the crypto currency list. 
 ![CryptoTracker](https://user-images.githubusercontent.com/30685241/177240259-5a0b8cdc-829d-4263-8657-695b8e12fefb.jpg)
 
 
