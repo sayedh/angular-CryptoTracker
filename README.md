@@ -17,6 +17,9 @@ In this project I used Angular13 to build an crypto tracker where the user can v
 ```
 npm install -g @angular/cli@13
 ```
+* Angular Table - https://material.angular.io/components/table/overview
+* Angular Paginator - https://material.angular.io/components/paginator/overview
+
 
 ## Executing program
 * Download the repository to your computer and go to project file
